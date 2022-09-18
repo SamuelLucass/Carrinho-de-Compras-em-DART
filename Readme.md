@@ -1,0 +1,1 @@
+Projeto desenvolvido em Dart para um curso na Udemy, um array de itens dentro de
