@@ -1,1 +1,1 @@
-Projeto desenvolvido em Dart para um curso na Udemy, um array de itens dentro de
+Projeto desenvolvido em Dart para um curso na Udemy, um array de itens dentro de um carrinho de compras. Aqui podemos adicionar, remover e imprimir para o usuário os itens desejados atravéz do prompt de comando. 
